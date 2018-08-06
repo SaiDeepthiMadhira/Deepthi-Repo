@@ -3,8 +3,11 @@ package org.cap.demo;
 public class MainClass {
 
 	public static void main(String[] args) {
+		
 		System.out.println("Hello World");
 		greet();
+		SalesCalss class1 = new SalesCalss();
+		class1.show();
 	}
 	
 	public static void greet() {
