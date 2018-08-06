@@ -8,6 +8,8 @@ public class MainClass {
 		greet();
 		SalesCalss class1 = new SalesCalss();
 		class1.show();
+		MoneyClass class2 = new MoneyClass();
+		class2.displsy();
 	}
 	
 	public static void greet() {
