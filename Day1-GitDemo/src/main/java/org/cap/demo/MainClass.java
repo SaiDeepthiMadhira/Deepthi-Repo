@@ -10,6 +10,9 @@ public class MainClass {
 	public static void greet() {
 		
 		System.out.println("Welcome!!");
+		for(int i = 0; i < 4; i++) {
+			System.out.println("Hello");
+		}
 	}
 
 }
